@@ -1,0 +1,17 @@
+cs2002
+pf
+1
+12345
+pfclo
+cs2001
+oop
+2
+op1
+opclo1
+op2
+opclo2
+cs2004
+dsa
+1
+234
+hamza
